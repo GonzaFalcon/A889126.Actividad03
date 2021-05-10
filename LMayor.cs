@@ -9,6 +9,7 @@ namespace A889126.Actividad03
 {
     class LMayor
     {
+        //
         private static readonly Dictionary<int, Cuenta> entradasC;
         private static readonly Dictionary<int, AsientoContable> entradasA;
         const string nombreArchivo = "Mayor.txt";
