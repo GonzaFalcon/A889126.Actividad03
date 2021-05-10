@@ -27,6 +27,7 @@ namespace A889126.Actividad03
                 Console.WriteLine("1 - Consultar libro mayor");
                 Console.WriteLine("2 - Actualizar libro mayor");
                 Console.WriteLine("3 - Salir");
+                Console.WriteLine();
 
                 var opcion = Console.ReadLine();
 
